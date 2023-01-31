@@ -1,0 +1,14 @@
+h1{
+    font-size: 5rem;
+}
+.me-prag{
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-size: 2rem;
+}
+
+.hoveff{
+    transition: all 0.8s;
+}
+.hoveff:hover{
+    transform:scale(1.05);
+}
